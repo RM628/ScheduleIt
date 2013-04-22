@@ -1,0 +1,4 @@
+ScheduleIt
+==========
+
+NMHU Course Scheduler
